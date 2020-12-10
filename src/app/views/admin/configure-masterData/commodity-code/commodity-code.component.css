@@ -23,3 +23,9 @@ tr.submenu-element-row:not(.submenu-expanded-row):active {
   overflow: hidden;
   display: flex;
 }
+.courseDesc {
+  max-width: 91%;
+}
+.courseDesc {
+  width: 100% !important;
+}
